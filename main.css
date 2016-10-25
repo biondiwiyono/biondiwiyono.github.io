@@ -9,7 +9,8 @@
     text-align: center;
     margin-top: 40px;
     padding: 100px;
-    background-image: url("http://www.mountain.org/sites/default/files/image_assets/5920447977_f84dff5a33_o_cropped_0.jpg");
+    background: url(http://www.mountain.org/sites/default/files/image_assets/5920447977_f84dff5a33_o_cropped_0.jpg) center no-repeat fixed;
+
 }
 .header p{
     margin-top: 20px;
