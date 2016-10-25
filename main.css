@@ -7,11 +7,34 @@
     width: 100%;
     height: 300px;
     text-align: center;
-    margin-top: 40px;
     padding: 100px;
     background: url(http://storage.googleapis.com/wzukusers/user-21235197/images/573a9bdaaf8d5wYnJpGe/Background.png) center no-repeat;
     background-size: cover;
 }
 .header p{
     margin-top: 20px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #ccffff;
+}
+
+.navbar li {
+    display: inline;
+    float: right;
+}
+
+.navbar li a {
+    display: block;
+    text-align:center;
+    padding: 20px;
+    background-color: #ccffff;
+    text-decoration: none;
+}
+
+.navbar li a:hover {
+    background-color: #66ccff;
 }
