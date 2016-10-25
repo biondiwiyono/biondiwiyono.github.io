@@ -5,5 +5,8 @@
 
 .header {
     text-align: center;
+    margin-top: 40px;
+}
+.header p{
     margin-top: 20px;
 }
